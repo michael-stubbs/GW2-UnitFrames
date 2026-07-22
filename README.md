@@ -90,7 +90,7 @@ ArenaNet does **not** review, approve, or endorse third-party programs. Use is a
 | In-combat flag (optional hide buff bars out of combat) | ArcDPS enter/exit combat on self | Matches the game’s own combat state; does not automate skills. |
 | Effect / profession icons | Cached wiki / GW2 API art | Cosmetic; same public art the game and wiki use. |
 | **Range dots** (ally in/out of a skill-range threshold, default 1200) | MumbleLink self position + ally world position from memory | Distance is already inferable by looking at allies in the world and by skill range rings / casting feel. The dot is a quick party-frame readout of that **visible** spacing, not wallhacks or fog-of-war reveal — allies must already be on your roster and resolvable in client state. Toggleable / limit configurable. |
-| **Hard CC wash** (stun / knockdown / pull / launch / float; stunbreak clear) | Memory BuffBar (stun/daze/KD); live combat messaging for pull/launch/etc. | Control effects are visible in the world and on the affected player’s UI. The wash mirrors that **already-applied** state on party frames and clears when control returns. Toggleable (experimental). |
+| **Hard CC wash** (stun / knockdown / pull / launch / float; stunbreak clear) | Memory BuffBar (stun/daze/KD); live combat messaging for pull/launch/etc. | Control effects are visible in the world and on the affected player’s UI. CC'd players can be visually confirmed in real time in the native game via animations and effects. Toggleable (experimental). |
 | Buff **source** dots (self vs other) | ArcDPS combat events | Convenience for “who applied this”; does not automate reapplication or change targeting. |
 
 ## Stability notes
