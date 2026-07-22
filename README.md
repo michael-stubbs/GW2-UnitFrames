@@ -101,7 +101,7 @@ ArenaNet does **not** review, approve, or endorse third-party programs. Use is a
 
 ## Troubleshooting
 
-Windows Defender sometimes flags the release DLL as **`Trojan:Win32/Sabsik.TE.A!ml`** (or similar). The `!ml` suffix is a machine-learning heuristic, not a known malware signature — common for unsigned ArcDPS/game overlays that read process memory. A false-positive report has been [submitted to Microsoft](https://www.microsoft.com/en-us/wdsi/filesubmission). Until definitions update: restore/allow the file in Defender, and download only from [GitHub Releases](https://github.com/michael-stubbs/GW2-UnitFrames/releases).
+Windows Defender sometimes flags the release DLL as **`Trojan:Win32/Sabsik.TE.A!ml`** (or similar). The `!ml` suffix is a machine-learning heuristic, not a known malware signature — common for unsigned ArcDPS/game overlays that read process memory. A false-positive report has been [submitted to Microsoft](https://www.microsoft.com/en-us/wdsi/filesubmission) as Submission ID: 6fe2d4b8-46e7-4fd0-b2be-d9766615bbe9. Definitions have since been updated, please file an issue if Defender catches your install again so I can submit another version to Microsoft. If it does happen: restore/allow the file in Defender, and download only from [GitHub Releases](https://github.com/michael-stubbs/GW2-UnitFrames/releases).
 
 | Symptom | What to try |
 |---------|-------------|
