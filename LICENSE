@@ -1,0 +1,73 @@
+GW2 Unit Frames — Proprietary License
+Copyright (c) 2026 Michael Stubbs. All rights reserved.
+
+GW2 Unit Frames is a closed-source project. This repository publishes only the
+addon's documentation and screenshots. The source code is intentionally not
+made public.
+
+
+Why this project is closed source
+---------------------------------
+The addon reads Guild Wars 2 client memory to display live buffs, vitals, and
+related party/squad information. Keeping the implementation private avoids
+publishing a ready-made template for misuse, while still shipping a normal
+informational overlay for players.
+
+
+Permitted use
+-------------
+You may download and use GW2 Unit Frames free of charge, including while
+streaming, recording, or making videos or other content — on monetised
+channels as well as personal ones. Streamers and content creators are welcome
+to feature and showcase the addon. You may also quote or reuse this
+repository's documentation and screenshots when describing, reviewing, or
+showcasing GW2 Unit Frames, with attribution.
+
+This permission does not let you sell GW2 Unit Frames, charge others for
+access to it, or bundle it into a paid product or service — see Restrictions
+below.
+
+
+Distribution
+------------
+Official builds are published free of charge on GitHub Releases:
+https://github.com/michael-stubbs/GW2-UnitFrames/releases
+
+You may redistribute an official release binary unchanged and free of charge,
+provided you point users to the official Releases page for updates. This
+conveys no right to modify, sell, or reverse engineer the software.
+
+
+Restrictions
+------------
+Except as expressly permitted above, you may not copy, modify, redistribute,
+sell, decompile, disassemble, or otherwise reverse engineer the GW2 Unit
+Frames software or attempt to recover its source code, without prior written
+permission from the author.
+
+
+ArenaNet developer access
+-------------------------
+The author welcomes scrutiny from the people who make Guild Wars 2. Verified
+ArenaNet employees may request read-only access to the complete source code in
+order to review the addon's behaviour and confirm its compliance with the
+Guild Wars 2 User Agreement and rules of conduct. To request access, open an
+issue on this repository or contact the author via the Discord link on the
+project page.
+
+Such access is granted for review purposes only and conveys no license to use,
+copy, modify, or redistribute the source code.
+
+
+No warranty
+-----------
+This software is provided "as is", without warranty of any kind, express or
+implied. To the maximum extent permitted by law, the author shall not be
+liable for any claim, damages, or other liability arising from the use of this
+software.
+
+
+GW2 Unit Frames is an unofficial, fan-made addon. Guild Wars 2 and ArenaNet
+are trademarks of ArenaNet, LLC and NCSOFT Corporation. This project is not
+affiliated with, endorsed by, or sponsored by ArenaNet or NCSOFT. ArcDPS is by
+deltaconnected.
