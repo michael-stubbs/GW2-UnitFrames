@@ -6,7 +6,7 @@ Highly customizable party/squad unit frames and personal buff bars for [Guild Wa
 
 I built this mainly for myself and my friends. If it helps you out too and you feel like tipping, that would mean a lot.
 
-**Version:** 2.4.1
+**Version:** 2.4.2
 
 [![Release](https://img.shields.io/github/v/release/michael-stubbs/GW2-UnitFrames?include_prereleases&label=Release&logo=github)](https://github.com/michael-stubbs/GW2-UnitFrames/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-DM%20me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/65958441679593472)
