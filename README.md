@@ -6,7 +6,7 @@ Highly customizable party/squad unit frames and personal buff bars for [Guild Wa
 
 I built this mainly for myself and my friends. If it helps you out too and you feel like tipping, that would mean a lot.
 
-**Version:** 2.4.2
+**Version:** 2.5.0
 
 [![Release](https://img.shields.io/github/v/release/michael-stubbs/GW2-UnitFrames?include_prereleases&label=Release&logo=github)](https://github.com/michael-stubbs/GW2-UnitFrames/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-DM%20me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/65958441679593472)
@@ -26,7 +26,6 @@ Personal buff bar (stacks, timers, progress, source dots):
 - Windows x64
 - Guild Wars 2 (64-bit)
 - [ArcDPS](https://www.deltaconnected.com/arcdps/) (ImGui **1.92.7**)
-- [ArcDPS Unofficial Extras](https://github.com/Krappa322/arcdps_unofficial_extras_releases) — **required** for party/squad unit frames (join/leave and subgroup tracking)
 
 **Nexus is not required.** This is a normal ArcDPS addon. It works with stock ArcDPS (`d3d11.dll` in `bin64`) or with ArcDPS loaded through [Nexus](https://raidcore.gg/Nexus) / other hosts — whatever you already use to run ArcDPS plugins.
 
