@@ -54,9 +54,7 @@ Inspired by the original [x4c1/arcdps_buffbar](https://github.com/x4c1/arcdps_bu
 
 ArcDPS can auto-update this addon when a newer GitHub release is available.
 
-**Replacing the DLL file on an existing release does not trigger an update** for players already on that tag — version comparison is by release tag, not by file hash or upload time. Publish a **new release with a higher version tag** (e.g. `v2.3.4`) so auto-update can see it.
-
-You can always update manually by replacing the DLL from Releases (game closed). First install of a build that includes auto-update (2.3.1+) is still manual if you are coming from an older DLL.
+You can always update manually by replacing the DLL from Releases.
 
 Settings and icon cache live under:
 
@@ -91,8 +89,6 @@ ArenaNet does **not** review, approve, or endorse third-party programs. Use is a
 ## Stability notes
 
 - **Memory reads** (self buffs, ally HP/barrier/buffs) depend on Guild Wars 2 client layout. A game patch can break them until the addon is updated. Personal bars can still use ArcDPS combat data as a fallback when memory is unavailable.
-- Icon downloads need network access on first use; results are cached under `addons\arcdps_buffbar\cache\`.
-- Keep ImGui in sync with your ArcDPS build (this release targets **1.92.7**).
 
 ## Troubleshooting
 
