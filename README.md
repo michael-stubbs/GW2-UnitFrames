@@ -3,6 +3,7 @@
 Highly customizable party/squad unit frames and personal buff bars for [Guild Wars 2](https://www.guildwars2.com/), built as an [ArcDPS](https://www.deltaconnected.com/arcdps/) addon.
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/H4V823JQJO)
+
 I built this mainly for myself and my friends. If it helps you out too and you feel like tipping, that would mean a lot.
 
 
