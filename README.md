@@ -34,7 +34,6 @@ Personal buff bar (stacks, timers, progress, source dots):
 3. Copy `gw2-unitframes.dll` next to where ArcDPS loads plugins.
    - Common setups: `Guild Wars 2\bin64\` (same folder as `Gw2-64.exe` / `d3d11.dll` / ArcDPS).
    - Some loaders (including Nexus) use `addons\arcdps\` — put the DLL wherever your ArcDPS already loads other addons.
-   - If you still have an older `arcdps_buffbar.dll`, remove it so only one copy loads.
 4. Launch the game. Open the ArcDPS options window and find the **GW2 Unit Frames** tab.
 
 ## Usage (quick start)
