@@ -30,11 +30,10 @@ Personal buff bar (stacks, timers, progress, source dots):
 ## Install (release build)
 
 1. Grab the latest `gw2-unitframes.dll` from [Releases](https://github.com/michael-stubbs/GW2-UnitFrames/releases/latest) (or use the **Release** badge above).
-2. Close Guild Wars 2 completely (`Gw2-64.exe` must not be running).
-3. Copy `gw2-unitframes.dll` next to where ArcDPS loads plugins.
+2. Copy `gw2-unitframes.dll` next to where ArcDPS loads plugins.
    - Common setups: `Guild Wars 2\bin64\` (same folder as `Gw2-64.exe` / `d3d11.dll` / ArcDPS).
    - Some loaders (including Nexus) use `addons\arcdps\` — put the DLL wherever your ArcDPS already loads other addons.
-4. Launch the game. Open the ArcDPS options window and find the **GW2 Unit Frames** tab.
+3. Launch the game. Open the ArcDPS options window and find the **GW2 Unit Frames** tab.
 
 ## Usage (quick start)
 
